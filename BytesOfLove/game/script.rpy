@@ -150,5 +150,3 @@ label start:
     #jump w1_d1_LunchApology
     
     jump w0_d1
-
-# hi :D
